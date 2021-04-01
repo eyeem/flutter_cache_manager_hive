@@ -1,3 +1,11 @@
+## [0.0.11]
+
+* updated dependencies
+
+## [0.0.10]
+
+* updated dependencies
+
 ## [0.0.9]
 
 * Add example and benchmark apps
